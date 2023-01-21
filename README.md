@@ -12,7 +12,7 @@ Small app to simulate bank transactions
     username: jd - password: 2222
 ## Demo
 
-Insert gif or link to demo
+https://ahmedbendary96.github.io/Bankist-app/
 
 
 ## 🔗 Links
